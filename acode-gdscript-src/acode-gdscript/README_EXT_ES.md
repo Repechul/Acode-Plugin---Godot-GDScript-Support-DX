@@ -3,8 +3,8 @@
 > Esta es la documentación extendida/para desarrolladores: arquitectura,
 > internals de runtime, cómo ampliar los datos curados, y limitaciones
 > conocidas. Para una descripción breve (en inglés), ver
-> [README.md](README.md).
-> También disponible en inglés: [README_EXT.md](README_EXT.md).
+> [README.md](https://github.com/Repechul/Acode-Plugin---Godot-GDScript-Support-DX/blob/main/acode-gdscript-src/acode-gdscript/README.md).
+> También disponible en inglés: [README_EXT.md](https://github.com/Repechul/Acode-Plugin---Godot-GDScript-Support-DX/blob/main/acode-gdscript-src/acode-gdscript/README_EXT.md).
 
 Soporte de GDScript 4.x para Acode 1.12.x+ (motor CodeMirror 6): resaltado de
 sintaxis, autocompletado (palabras clave, anotaciones — con tabstops de

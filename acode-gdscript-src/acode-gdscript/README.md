@@ -27,7 +27,7 @@ Turns Acode into a capable GDScript editor, entirely on-device:
 Source code, build instructions, and releases live in the GitHub
 repository:
 
-**[github.com/Repechul/Acode-Plugin---Godot-GDScript-Support-DX](https://github.com/Repechul/Acode-Plugin---Godot-GDScript-Support-DX)**
+**[Godot - GDScript Support DX](https://github.com/Repechul/Acode-Plugin---Godot-GDScript-Support-DX)**
 
 ## Full documentation
 
@@ -35,10 +35,11 @@ This file is a short overview. For the architecture, the runtime
 internals, how to extend the curated data, and the full list of known
 limitations:
 
-- [README_EXT.md](README_EXT.md) — English
-- [README_EXT_ES.md](README_EXT_ES.md) — Español
+- [README_EXT.md](https://github.com/Repechul/Acode-Plugin---Godot-GDScript-Support-DX/blob/main/acode-gdscript-src/acode-gdscript/README.md) — English
+- [README_EXT_ES.md](https://github.com/Repechul/Acode-Plugin---Godot-GDScript-Support-DX/blob/main/acode-gdscript-src/acode-gdscript/README_EXT_ES.md) — Español
 
-Version history: [CHANGELOG.md](CHANGELOG.md) ([Español](CHANGELOG_ES.md)).
+Version history: [CHANGELOG.MD - English](https://github.com/Repechul/Acode-Plugin---Godot-GDScript-Support-DX/blob/main/acode-gdscript-src/acode-gdscript/CHANGELOG.md)
+[CHANGELOG_ES.MD - Español](https://github.com/Repechul/Acode-Plugin---Godot-GDScript-Support-DX/blob/main/acode-gdscript-src/acode-gdscript/CHANGELOG_ES.md)).
 
 ## Have a bug or issue?
 

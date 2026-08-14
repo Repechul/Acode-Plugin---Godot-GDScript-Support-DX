@@ -1,6 +1,6 @@
 # Changelog
 
-> This changelog is also available in Spanish: [CHANGELOG_ES.md](CHANGELOG_ES.md).
+> This changelog is also available in Spanish: [CHANGELOG_ES.md](https://github.com/Repechul/Acode-Plugin---Godot-GDScript-Support-DX/blob/main/acode-gdscript-src/acode-gdscript/CHANGELOG_ES.md).
 
 ## 0.9.2
 

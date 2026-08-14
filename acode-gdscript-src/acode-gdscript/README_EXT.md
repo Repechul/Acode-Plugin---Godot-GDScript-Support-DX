@@ -11,8 +11,8 @@ and — since 0.5.0 — signature help while typing a function call.
 
 > This is the extended/developer documentation: architecture, runtime
 > internals, how to extend the curated data, and known limitations. For
-> a short overview, see [README.md](README.md).
-> Also available in Spanish: [README_EXT_ES.md](README_EXT_ES.md).
+> a short overview, see [README.md](https://github.com/Repechul/Acode-Plugin---Godot-GDScript-Support-DX/blob/main/acode-gdscript-src/acode-gdscript/README.md).
+> Also available in Spanish: [README_EXT_ES.md](https://github.com/Repechul/Acode-Plugin---Godot-GDScript-Support-DX/blob/main/acode-gdscript-src/acode-gdscript/README_EXT_ES.md).
 
 ## Project status
 

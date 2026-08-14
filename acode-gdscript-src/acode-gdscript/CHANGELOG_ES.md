@@ -1,6 +1,6 @@
 # Changelog
 
-> Este changelog también está disponible en inglés: [CHANGELOG.md](CHANGELOG.md).
+> Este changelog también está disponible en inglés: [CHANGELOG.md](https://github.com/Repechul/Acode-Plugin---Godot-GDScript-Support-DX/blob/main/acode-gdscript-src/acode-gdscript/CHANGELOG.md).
 
 ## 0.9.2
 
