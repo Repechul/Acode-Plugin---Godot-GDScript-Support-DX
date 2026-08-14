@@ -48,4 +48,4 @@ Please report it here:
 
 ## License
 
-MIT — see `plugin.json`.
+[MIT Licence](https://github.com/Repechul/Acode-Plugin---Godot-GDScript-Support-DX/blob/main/LICENCE)
